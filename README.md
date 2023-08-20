@@ -1,20 +1,10 @@
-### Hi there 👋
-I am a computer science student at RWTH working on some private projects as a hobby.  
-You can contact me using my email address **kaangiray26 (at) protonmail.com**.  
-Also, check out my website!  
-https://buzl.uk/  
+## Hi there 👋
+I am a computer science student at RWTH, who likes to work on open-source  
+projects ~to deal with the burden of life~ in his free time.
 
-<!--
-**f34rl00/f34rl00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my website:
+* https://buzl.uk/  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I'm working on right now
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaangiray26&repo=geddit-app)](https://github.com/kaangiray26/geddit-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaangiray26&repo=squawk)](https://github.com/kaangiray26/squawk)
